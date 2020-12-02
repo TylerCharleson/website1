@@ -1,5 +1,12 @@
 /* Website styles */
-​
+
+/* Website Styles */
+
+body {
+  background-color: grey;
+  color: black;
+}
+
 * {
   font-size: 100%;
   margin: 0;
@@ -11,11 +18,11 @@ body {
   max-width: 1000px;
   margin: 0 auto;
 }
-background-image: url(images/duck.jpg);
-width: 80%
+
 
 img {
   width: 30%;
+  length: 30%;
 }
 
 .container {
