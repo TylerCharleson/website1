@@ -1,46 +1,8 @@
 /* Website styles */
 
-/* Website Styles */
+<section>
+  <img src="images/chicken.jpg" alt="picture of chickens"width="50% height="50%  />
+  <img src="images/cat.jpg" alt="picture of cats" width="50% height="50% />
+  <img src="images/dog.jpg" alt="picture of dogs"width="50% height="50%  />
 
-body {
-  background-color: grey;
-  color: black;
-}
-
-* {
-  font-size: 100%;
-  margin: 0;
-  line-height: 1;
-  box-sizing: content-box;
-}
-
-body {
-  max-width: 1000px;
-  margin: 0 auto;
-}
-
-
-img {
-  width: 30%;
-  length: 30%;
-}
-
-.container {
-  max-width: 100%;
-  margin: 0 auto;
-  background-repeat: repeat;
-  display: grid;
-  grid-template-columns: 30% 60%;
-  align-items: start;
-  justify-content: space-between;
-}
-.container2 {
-  padding-right: 10%;
-}
-.description {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
-  padding-top: 10%;
-}
+</section>
